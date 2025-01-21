@@ -1,4 +1,4 @@
-# Garbage Detection With Arduino
+# Garbage Detection Using Arduino
 
 Adventure Design Term Project
 
